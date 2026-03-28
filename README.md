@@ -1,9 +1,10 @@
 # 💫 About Me:
-Cloud & DevOps Engineer with experience in designing and automating scalable infrastructure across Azure and AWS environments. Certified Azure Solutions Architect with strong hands-on expertise in Kubernetes, CI/CD pipelines, infrastructure as code, and secure cloud architecture patterns.
 
-Proficient in building and deploying Django-based applications, implementing cloud-native solutions, and integrating DevOps practices across the SDLC. Experienced in containerized environments, secrets management, monitoring, and production-grade deployments.
+Cloud & DevOps Engineer who automates things so I don’t have to do them twice.  
 
-This repository showcases practical implementations of cloud architecture, DevOps automation, Kubernetes workloads, and backend application development.
+Azure-certified, Kubernetes-friendly, and deeply involved in making infrastructure behave the way it *should*. I build, deploy, break, and fix cloud systems — mostly in that order.
+
+Turning coffee ☕ into scalable, secure, and production-ready architectures.
 
 ---
 
@@ -20,10 +21,3 @@ This repository showcases practical implementations of cloud architecture, DevOp
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat&logo=azure-devops&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Test-Script&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Test-Script&theme=swift&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Test-Script&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
