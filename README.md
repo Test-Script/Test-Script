@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Test-Script/Test-Script/output/snake.svg" alt="Snake animation" />
-
-###
