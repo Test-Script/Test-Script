@@ -18,6 +18,5 @@ Turning coffee ☕ into scalable, secure, and production-ready architectures.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=flat&logo=azure-devops&logoColor=white)
 
 ---
